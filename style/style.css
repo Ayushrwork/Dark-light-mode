@@ -346,8 +346,10 @@ nav .slider.round:before {
 }
 
 .form-section .main-form {
-  width: 100%;
-  height: 80vh;
+  /* background: #303436b2; */
+  margin: auto;
+  width: 50%;
+  height: 65vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -360,6 +362,7 @@ nav .slider.round:before {
 }
 
 .form-section .main-form form {
+  outline: none;
   margin: auto;
   width: 60%;
   height: 60vh;
@@ -379,15 +382,12 @@ nav .slider.round:before {
 .form-section .main-form form textarea {
   padding: 8px;
   border: 2px solid var(--text);
-  border-top: none;
-  border-left: none;
-  border-right: none;
   background: var(--bg);
 }
 
 .form-section .main-form form input[type='submit'] {
-  width: 15%;
-  padding: 8px;
+  width: 20%;
+  padding: 10px;
   cursor: pointer;
   background: var(--text);
   border: 2px var(--text);
@@ -443,6 +443,9 @@ footer .right-section .fab {
   }
   .img-section {
     height: 130vh;
+  }
+  #submit {
+    width: 35%;
   }
 }
 
@@ -568,6 +571,9 @@ footer .right-section .fab {
   }
   .img-grid-section .img-section .img {
     width: 48vw;
+  }
+  .form-section .main-form form {
+    width: 100%;
   }
   .form-section .main-form form input[type='submit'] {
     width: 30%;
