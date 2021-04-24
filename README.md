@@ -3,19 +3,19 @@
  It is a Theme change website.
  
 # Sections:
-* [Card](#general-info)
+* [Card]()
 
   It has a Card Section.
    
   ![Banner](https://github.com/Ayushrwork/Dark-light-mode/blob/master/media/images/darkmode%232.png?raw=true)
 
-* [Images](#technologies)
+* [Images]()
 
    Cool Image hovering Effects.
    
      ![Banner](https://github.com/Ayushrwork/Dark-light-mode/blob/master/media/images/darkmode%233.png?raw=true)
 
-* [Form]
+* [Form]()
 
   This website also has a Beautifull and Clean form section.
 
